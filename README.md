@@ -1,11 +1,11 @@
-Hey, I'm Ariel 👋
+Oi, sou o Ariel! 👋
 
-Living in Santa Catarina, Brazil
+Moro em Santa Catarina e estudo Ciência da Computação na Univali.
 
-Studying Computer Science at Univali (2nd semester)
+Estou no 3º período, sempre explorando novas formas de criar aplicações.
 
-Focused on JavaScript, especially React and Node.js
+Experiência em desenvolvimento fullstack com Next.js, React, Node.js, TypeScript, SQL e MongoDB.
 
-Always looking to improve my skills and work on interesting projects
+Gosto de desenvolver soluções intuitivas e escaláveis, aprendendo algo novo a cada projeto.
 
-Take a look at my projects, and let's connect if you're interested in collaborating!
+Se quiser trocar ideias ou colaborar em algo legal, é só me chamar!
